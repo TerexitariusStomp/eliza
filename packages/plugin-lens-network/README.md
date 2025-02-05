@@ -1,9 +1,9 @@
 # @elizaos/plugin-abstract
 
-A plugin for interacting with the Abstract blockchain network within the ElizaOS ecosystem.
+A plugin for interacting with the Lens network within the ElizaOS ecosystem.
 
 ## Description
-The Abstract plugin enables seamless token transfers on the Abstract testnet. It provides functionality to transfer both native ETH and ERC20 tokens using secure wallet operations.
+The Lens plugin enables seamless token transfers on the Lens Network. It provides functionality to transfer both native ETH and ERC20 tokens using secure wallet operations.
 
 ## Installation
 
